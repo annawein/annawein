@@ -3,9 +3,9 @@ Frontend Developer skilled in JavaScript, TypeScript, and React.js. My career be
 
 🛠️ My career has been a blend of hands-on development and leadership. I’ve built and scaled applications, focusing on web performance and user experience, and have collaborated with diverse teams to drive innovation.
 
-💻 Programming Languages: JavaScript, TypeScript
+💻 Languages: JavaScript, TypeScript, CSS, HTML
 
-🔧 Technologies & Tools: React.js, Node.js, REST APIs, Jest, Webpack, Babel, ESlint, Git, GitHub, GitLab, Lighthouse, Turbopack, Storybook, Sentry, AXE Dev Tools, React Dev Tools
+🔧 Technologies & Tools: React.js, RESTful APIs, Node.js, Git, GitHub, GitLab, Webpack, Babel, ESlint, Material UI, Jest, React Testing Library, Storybook, Sentry, BrowserStack, Lighthouse, Turbopack, WAVE, axe DevTools, React DevTools, Jira, Confluence
 
 ☁️ Cloud: AWS, GitHub Actions
 
